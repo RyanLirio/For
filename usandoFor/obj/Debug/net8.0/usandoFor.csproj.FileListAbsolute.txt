@@ -1,0 +1,14 @@
+C:\Users\RL\Desktop\csharp\for\usandoFor\obj\Debug\net8.0\usandoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\Desktop\csharp\for\usandoFor\obj\Debug\net8.0\usandoFor.AssemblyInfoInputs.cache
+C:\Users\RL\Desktop\csharp\for\usandoFor\obj\Debug\net8.0\usandoFor.AssemblyInfo.cs
+C:\Users\RL\Desktop\csharp\for\usandoFor\obj\Debug\net8.0\usandoFor.csproj.CoreCompileInputs.cache
+C:\Users\RL\Desktop\csharp\for\usandoFor\bin\Debug\net8.0\usandoFor.exe
+C:\Users\RL\Desktop\csharp\for\usandoFor\bin\Debug\net8.0\usandoFor.deps.json
+C:\Users\RL\Desktop\csharp\for\usandoFor\bin\Debug\net8.0\usandoFor.runtimeconfig.json
+C:\Users\RL\Desktop\csharp\for\usandoFor\bin\Debug\net8.0\usandoFor.dll
+C:\Users\RL\Desktop\csharp\for\usandoFor\bin\Debug\net8.0\usandoFor.pdb
+C:\Users\RL\Desktop\csharp\for\usandoFor\obj\Debug\net8.0\usandoFor.dll
+C:\Users\RL\Desktop\csharp\for\usandoFor\obj\Debug\net8.0\refint\usandoFor.dll
+C:\Users\RL\Desktop\csharp\for\usandoFor\obj\Debug\net8.0\usandoFor.pdb
+C:\Users\RL\Desktop\csharp\for\usandoFor\obj\Debug\net8.0\usandoFor.genruntimeconfig.cache
+C:\Users\RL\Desktop\csharp\for\usandoFor\obj\Debug\net8.0\ref\usandoFor.dll
